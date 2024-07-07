@@ -183,8 +183,8 @@ The analysis shows that highly influential individuals (with high connections) w
 
 ## Contributors
 
-Dewansh Kumar
-Bhoumik Patidar
+Dewansh Kumar |
+Bhoumik Patidar |
 Abhishek Kumar Kushwaha
 
 
